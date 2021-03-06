@@ -2,6 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
+    <UserSecretsId>9c65437a-6bc5-40e5-8883-56d2a9682e51</UserSecretsId>
   </PropertyGroup>
 
   <ItemGroup>
@@ -14,7 +15,6 @@
 
   <ItemGroup>
     <Folder Include="Migrations\" />
-    <Folder Include="Models\ViewComponents\" />
     <Folder Include="wwwroot\css\" />
     <Folder Include="wwwroot\images\" />
     <Folder Include="wwwroot\js\" />
